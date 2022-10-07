@@ -1,3 +1,10 @@
+# service2 [1.3.0](https://github.com/kevin-benton/monorepo-demo/compare/service2@1.2.0...service2@1.3.0) (2022-10-07)
+
+
+### Features
+
+* updates logging framework ([cee1073](https://github.com/kevin-benton/monorepo-demo/commit/cee1073778addcc1213238f482a10579ea4816d1))
+
 # service2 [1.2.0](https://github.com/kevin-benton/monorepo-demo/compare/service2@1.1.0...service2@1.2.0) (2022-10-07)
 
 
