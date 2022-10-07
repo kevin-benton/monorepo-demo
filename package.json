@@ -10,7 +10,9 @@
     "apps/*"
   ],
   "release": {
-    "branches": ["main"],
+    "branches": [
+      "main"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
@@ -19,6 +21,7 @@
     ]
   },
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "multi-semantic-release": "^3.0.1"
   }
 }
