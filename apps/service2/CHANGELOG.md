@@ -1,3 +1,15 @@
+# service2 [2.0.0](https://github.com/kevin-benton/monorepo-demo/compare/service2@1.3.0...service2@2.0.0) (2022-10-07)
+
+
+### Features
+
+* port to python ([f26c3c6](https://github.com/kevin-benton/monorepo-demo/commit/f26c3c6d753440af4125ed1d54aff454b61fde39))
+
+
+### BREAKING CHANGES
+
+* change implementation language
+
 # service2 [1.3.0](https://github.com/kevin-benton/monorepo-demo/compare/service2@1.2.0...service2@1.3.0) (2022-10-07)
 
 
