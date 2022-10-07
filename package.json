@@ -14,8 +14,7 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator"
-    ],
-    "noCi": true
+    ]
   },
   "devDependencies": {
     "multi-semantic-release": "^3.0.1"
