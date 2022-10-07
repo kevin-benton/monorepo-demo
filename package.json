@@ -22,7 +22,7 @@
       [
         "@semantic-release/exec",
         {
-          "sucessCmd": "sleep 3",
+          "sucessCmd": "sleep 3"
         }
       ]
     ]
