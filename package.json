@@ -1,0 +1,22 @@
+{
+  "name": "monorepo-demo",
+  "version": "0.1.0",
+  "description": "test monorepo versioning",
+  "repository": "https://github.com/kevin-benton/monorepo-demo",
+  "author": "Kevin Benton",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator"
+    ],
+    "noCi": true
+  },
+  "devDependencies": {
+    "multi-semantic-release": "^3.0.1"
+  }
+}
