@@ -1,3 +1,10 @@
+# service1 [3.2.0](https://github.com/kevin-benton/monorepo-demo/compare/service1@3.1.0...service1@3.2.0) (2022-11-14)
+
+
+### Features
+
+* updates minor on both ([1f5a98a](https://github.com/kevin-benton/monorepo-demo/commit/1f5a98a8b35ba343d5e23a03bc7dd92b72515bcc))
+
 # service1 [3.1.0](https://github.com/kevin-benton/monorepo-demo/compare/service1@3.0.0...service1@3.1.0) (2022-10-10)
 
 
