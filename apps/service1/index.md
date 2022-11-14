@@ -4,4 +4,4 @@ Update logging framework again.
 
 Change language.
 
-Minor feature.
+Minor feature 2.
